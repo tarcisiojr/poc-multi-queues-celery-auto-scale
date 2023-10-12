@@ -1,0 +1,4 @@
+pymongo==4.5.0
+pydantic==2.4.2
+celery==5.3.4
+Redis==5.0.1
